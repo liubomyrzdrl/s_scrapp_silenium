@@ -1,4 +1,4 @@
-#  MacBook Price Scraper (Selenium + Python)
+# Scraper (Selenium + Python)
 
 This is a simple web scraping app written in Python that extracts MacBook Air prices from [yabloki.ua](https://yabloki.ua/mac/macbook-air/?header=22) and saves the data to an Excel file (`data.xlsx`).
 
